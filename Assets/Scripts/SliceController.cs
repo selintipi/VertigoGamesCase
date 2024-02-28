@@ -7,12 +7,12 @@ using UnityEngine.UI;
 public class SliceController : MonoBehaviour
 {
     [SerializeField] private Item item;
-
     [SerializeField] private TextMeshProUGUI countText;
+    
     // Start is called before the first frame update
     void Start()
     {
-        //countText.text = item.ItemCount.ToString();
+        int.TryParse(countText.text, out item.count);
     }
 
     // Update is called once per frame
