@@ -225,5 +225,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7256e7c10e1e4a9499dfef5c03e8953c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  item: {fileID: 11400000, guid: c1ada40f503b508419d6a1a8f9c7038f, type: 2}
-  countText: {fileID: 3637955914258112010}
+  item: {fileID: 11400000, guid: 50fd8447449287748baa177a0438b9dc, type: 2}
+  ui_text_count: {fileID: 3637955914258112010}

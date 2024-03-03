@@ -485,8 +485,38 @@ MonoBehaviour:
   - {fileID: 8139851230070499572, guid: 4784655f14293c248852bb7f3b9664c3, type: 3}
   - {fileID: 8139851230070499572, guid: 13298595a9a9ccb44a3fa614590e3d7f, type: 3}
   - {fileID: 2752068938320462254, guid: 31a514ca08ab00441bea2dda3afc44d3, type: 3}
+  - {fileID: 8139851230070499572, guid: c509b7dae8371b0488c0d5fd867c492b, type: 3}
+  - {fileID: 8139851230070499572, guid: ab8ee16f3629bda4395a5cd7d7c62f7d, type: 3}
+  - {fileID: 8139851230070499572, guid: 08a65d8e059f7ae4dbf2d4df84829414, type: 3}
+  - {fileID: 6007478840766038765, guid: 7ec1a1b719bc0f84a86016cdea7380c1, type: 3}
+  - {fileID: 485138601767380545, guid: 8090848244386864298c82856e303385, type: 3}
+  - {fileID: 5564765002358163100, guid: c4ce18e641cea234ba99f558a865b220, type: 3}
+  - {fileID: 2747182831394726285, guid: f29398d891e3e2044a7c8279fc644785, type: 3}
+  - {fileID: 1650973335301539302, guid: 830f46970ff345543a47b2abd2a3bb47, type: 3}
+  - {fileID: 1439318003798178290, guid: b23574dfa1cf2c04fa7de0b8b3cca7da, type: 3}
+  - {fileID: 3646055255462303266, guid: 477cdb812dfe6094693f5b359363e5e7, type: 3}
+  - {fileID: 3646055255462303266, guid: 0c71b6c704473a34d8b2108b30d4709a, type: 3}
+  - {fileID: 5199179538535847175, guid: bb5bd626f9f73794091ae1d75bd5acca, type: 3}
+  - {fileID: 3646055255462303266, guid: fc9f53cd214fc5047b65ebbbe90c9ac7, type: 3}
+  - {fileID: 3646055255462303266, guid: e8d3b4fcccf9f944b8ee445e0cf89f6c, type: 3}
+  - {fileID: 8959973807885399849, guid: 3c8263cf6536fa6488aa7f8e94f52ebd, type: 3}
+  - {fileID: 3646055255462303266, guid: 06ee710135a6c674f9ee86d45ffd90e8, type: 3}
+  - {fileID: 3646055255462303266, guid: 55ea4ef7973257b4e86e1e8a61404eca, type: 3}
+  - {fileID: 6007478840766038765, guid: 60df6214109c8bc45b3dfb857da0c8cb, type: 3}
+  - {fileID: 9153389834338359065, guid: 0ba33c957c094d94c8d64935633e9308, type: 3}
+  - {fileID: 2250566826166073100, guid: 5cd23058b375b3f4cacb7f823298c1f1, type: 3}
+  - {fileID: 6007478840766038765, guid: d11cda2c4bee1474a8f95bfdca22e97e, type: 3}
+  - {fileID: 6721524479764505309, guid: 90f24957002fd534da71d7a7bdca5b06, type: 3}
+  - {fileID: 4854166389784073848, guid: 45c410645fbfc454691d49ab7960f2c5, type: 3}
+  - {fileID: 4860993323455012650, guid: 1f4cd722ad562364eab09d47342fce48, type: 3}
   bombPrefab: {fileID: 4025065842116853875, guid: 5dbeb19338f8872449e48f5a77f01923, type: 3}
   wheel: {fileID: 42484510}
+  wheelImage: {fileID: 42484511}
+  goldWheelSprite: {fileID: 21300000, guid: b903a88176bc71d4a8a34795993ab232, type: 3}
+  silverWheelSprite: {fileID: 21300000, guid: 9bafabeeac7209a429c8dc1f8dba27d7, type: 3}
+  arrowImage: {fileID: 821582568}
+  goldArrowSprite: {fileID: 21300000, guid: 1b67982a24517eb4b97271df42537cb5, type: 3}
+  silverArrowSprite: {fileID: 21300000, guid: 5882106fc9c4ca34f94f36ba670d2cf8, type: 3}
   animationCurves:
   - serializedVersion: 2
     m_Curve:

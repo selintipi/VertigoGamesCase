@@ -90,8 +90,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7256e7c10e1e4a9499dfef5c03e8953c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  item: {fileID: 11400000, guid: c1ada40f503b508419d6a1a8f9c7038f, type: 2}
-  countText: {fileID: 1823917911328303028}
+  item: {fileID: 11400000, guid: 7b1eeff7da7dedb43a40504a22c3d201, type: 2}
+  ui_text_count: {fileID: 1823917911328303028}
 --- !u!1 &8011089986500854923
 GameObject:
   m_ObjectHideFlags: 0

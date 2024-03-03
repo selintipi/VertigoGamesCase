@@ -148,7 +148,7 @@ GameObject:
   - component: {fileID: 7935552082301422575}
   - component: {fileID: 6307530927182005104}
   m_Layer: 5
-  m_Name: BombItem
+  m_Name: GrenadeItem
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -225,5 +225,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7256e7c10e1e4a9499dfef5c03e8953c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  item: {fileID: 11400000, guid: c1ada40f503b508419d6a1a8f9c7038f, type: 2}
-  countText: {fileID: 8712391880598079682}
+  item: {fileID: 11400000, guid: 1a1ce39460c137b4e9d708f1e4cc3f33, type: 2}
+  ui_text_count: {fileID: 8712391880598079682}
